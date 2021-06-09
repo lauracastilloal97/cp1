@@ -330,6 +330,6 @@ class __TwigTemplate_32af9d25f3435198f7cfb198ba5fcd3498f65a4fd17a389b08b1a256bc6
         </ul>
     </nav>
 {% endif %}
-", "twitter_bootstrap_v4_pagination.html.twig", "C:\\Users\\laura\\campers\\templates\\twitter_bootstrap_v4_pagination.html.twig");
+", "twitter_bootstrap_v4_pagination.html.twig", "C:\\xampp\\htdocs\\cp1\\templates\\twitter_bootstrap_v4_pagination.html.twig");
     }
 }

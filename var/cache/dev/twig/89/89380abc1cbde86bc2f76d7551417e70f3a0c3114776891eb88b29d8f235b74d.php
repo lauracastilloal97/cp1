@@ -418,6 +418,6 @@ class __TwigTemplate_1ff9b8869a6d223bbc35139e94c138a264a6127a2899a72be38f5565b19
     </form>
 </div>
 {% endblock %}
-", "user/show.html.twig", "C:\\Users\\laura\\campers\\templates\\user\\show.html.twig");
+", "user/show.html.twig", "C:\\xampp\\htdocs\\cp1\\templates\\user\\show.html.twig");
     }
 }

@@ -72,7 +72,7 @@ class __TwigTemplate_1e7e6ad7c4d6b3ea5bf127ae2d8504b89bccce43649457892112c95fa03
     <nav class=\"navbar navbar-expand-lg fixed-top second-navbar  \">
         <div class=\"container\">
             <a class=\"navbar-brand\" href=\"../../\">
-                <img src=\"../../img/Logotipo.png\" width=\"90\" height=\"60\" alt=\"\">
+                <img src=\"/img/Logotipo.png\" width=\"90\" height=\"60\" alt=\"\">
             </a>
         </div>
         <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
@@ -447,7 +447,7 @@ class __TwigTemplate_1e7e6ad7c4d6b3ea5bf127ae2d8504b89bccce43649457892112c95fa03
     <nav class=\"navbar navbar-expand-lg fixed-top second-navbar  \">
         <div class=\"container\">
             <a class=\"navbar-brand\" href=\"../../\">
-                <img src=\"../../img/Logotipo.png\" width=\"90\" height=\"60\" alt=\"\">
+                <img src=\"/img/Logotipo.png\" width=\"90\" height=\"60\" alt=\"\">
             </a>
         </div>
         <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
@@ -574,6 +574,6 @@ class __TwigTemplate_1e7e6ad7c4d6b3ea5bf127ae2d8504b89bccce43649457892112c95fa03
 </body>
 
 </html>
-", "base.html.twig", "C:\\Users\\laura\\campers\\templates\\base.html.twig");
+", "base.html.twig", "C:\\xampp\\htdocs\\cp1\\templates\\base.html.twig");
     }
 }

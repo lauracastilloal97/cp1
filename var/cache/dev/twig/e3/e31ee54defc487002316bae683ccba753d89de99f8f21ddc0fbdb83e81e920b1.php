@@ -79,6 +79,6 @@ class __TwigTemplate_28918063e9dc29d20d2ea93bb1f3e852a18f82abec6f95774e4df91fab6
     <input type=\"hidden\" name=\"_token\" value=\"{{ csrf_token('delete' ~ user.id) }}\">
     <button class=\"btn\">Borrar datos</button>
 </form>
-", "user/_delete_form.html.twig", "C:\\Users\\laura\\campers\\templates\\user\\_delete_form.html.twig");
+", "user/_delete_form.html.twig", "C:\\xampp\\htdocs\\cp1\\templates\\user\\_delete_form.html.twig");
     }
 }

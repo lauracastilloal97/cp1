@@ -184,21 +184,6 @@ a:link, a:visited, a:active {
 
 }
 
-@media (min-width: 481px) and (max-width: 767px) {
-    .card-title{
-        width: 400px;
-    }
-    
-    .container-products{
-        height: 450px;
-    }
-    
-    body{
-        width: 100%;
-    }
-	
-}
-
 @media (min-width: 768px) and (max-width: 1024px) {
   
   .container-products{
@@ -208,6 +193,43 @@ a:link, a:visited, a:active {
         left: -15rem;
     }
     
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .card-title{
+      width: 400px;
+      left: -15rem;
+
+
+  }
+  
+  .container-products{
+      height: 450px;
+  }
+  
+  body{
+      width: 100%;
+  }
+
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  .card-title{
+      width: 350px;
+      left: 1rem;
+  }
+
+  .container-products{
+      height: 450px;
+      width: 250px;
+      margin-right: 0px;
+  }
+
+  body{
+      width: 100%;
+  }
+
 }
 
 

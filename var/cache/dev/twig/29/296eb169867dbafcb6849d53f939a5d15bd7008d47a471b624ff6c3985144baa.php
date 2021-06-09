@@ -114,7 +114,7 @@ class __TwigTemplate_6085e194fa90b79db3f0a8ba1636b7aecc66ade1c855c69505838c2d0dd
     <img src=\"/img/foto8.jpg\" id=\"content_div_one_photo\" class=\"img-fluid card-img\" style=\"width: 1592px; height: 649px; object-fit: cover; object-position: 50% 50%;\" alt=\"Alquiler de Caravanas con Travel Campers\">
     <div class=\"card-title\">
         <div class=\"container position-relative py-4 d-flex flex-column flex-md-row align-items-start align-items-md-end justify-content-start\" style=\"top: 0px; left: 0px;\">
-            <div class=\"hero-new__main-container col-12 col-md-8 col-lg-6 col-xl-5 p-0 info\" style=\"position: unset;\">
+            <div class=\"hero-new__main-container col-12 col-md-8 col-lg-6 col-xl-5 col-xs-12 p-0 info\" style=\"position: unset;\">
                 <div class=\"hero-new__form-container w-100 indie-br--8 bg-color--white position-relative\">
                     <h1 class=\"hero-new__headline--main titulo\">Travel Campers</h1><br>
                     <p class=\"hero-new__headline--submain\" style=\"letter-spacing: 0.1em; font-size: 17px;\">En Travel Campers queremos que vivas una aventura en primera persona con nuestras furgonetas únicas, pensadas y creadas para ti. ¿Lo típico no? Bueno, pues con Bahamas, Arizona y Ohana podrás disfrutar de tu viaje como quieras y a donde quieras, lo diferente es que esta vez las vistas no serán lo más bonito de tu viaje.                      ¿No nos crees? Compruébalo tu mism@.</p>
@@ -131,7 +131,7 @@ class __TwigTemplate_6085e194fa90b79db3f0a8ba1636b7aecc66ade1c855c69505838c2d0dd
 <br><br>
 
 <main class=\"main\">
-    <div class=\"container\">
+    <div class=\"container \">
         <h2 class=\"main-title\">Nuestras últimas autocaravanas y furgonetas campers para alquilar en España</h2><br>
         ";
         // line 34
@@ -139,7 +139,7 @@ class __TwigTemplate_6085e194fa90b79db3f0a8ba1636b7aecc66ade1c855c69505838c2d0dd
         $context['_seq'] = twig_ensure_traversable((isset($context["campers"]) || array_key_exists("campers", $context) ? $context["campers"] : (function () { throw new RuntimeError('Variable "campers" does not exist.', 34, $this->source); })()));
         foreach ($context['_seq'] as $context["_key"] => $context["camper"]) {
             // line 35
-            echo "        <section class=\"container-products\">
+            echo "        <section class=\"container-products col-xs-12\">
             <a href=\"/readCamper/";
             // line 36
             echo twig_escape_filter($this->env, twig_get_attribute($this->env, $this->source, $context["camper"], "id", [], "any", false, false, false, 36), "html", null, true);
@@ -345,7 +345,7 @@ class __TwigTemplate_6085e194fa90b79db3f0a8ba1636b7aecc66ade1c855c69505838c2d0dd
     <img src=\"/img/foto8.jpg\" id=\"content_div_one_photo\" class=\"img-fluid card-img\" style=\"width: 1592px; height: 649px; object-fit: cover; object-position: 50% 50%;\" alt=\"Alquiler de Caravanas con Travel Campers\">
     <div class=\"card-title\">
         <div class=\"container position-relative py-4 d-flex flex-column flex-md-row align-items-start align-items-md-end justify-content-start\" style=\"top: 0px; left: 0px;\">
-            <div class=\"hero-new__main-container col-12 col-md-8 col-lg-6 col-xl-5 p-0 info\" style=\"position: unset;\">
+            <div class=\"hero-new__main-container col-12 col-md-8 col-lg-6 col-xl-5 col-xs-12 p-0 info\" style=\"position: unset;\">
                 <div class=\"hero-new__form-container w-100 indie-br--8 bg-color--white position-relative\">
                     <h1 class=\"hero-new__headline--main titulo\">Travel Campers</h1><br>
                     <p class=\"hero-new__headline--submain\" style=\"letter-spacing: 0.1em; font-size: 17px;\">En Travel Campers queremos que vivas una aventura en primera persona con nuestras furgonetas únicas, pensadas y creadas para ti. ¿Lo típico no? Bueno, pues con Bahamas, Arizona y Ohana podrás disfrutar de tu viaje como quieras y a donde quieras, lo diferente es que esta vez las vistas no serán lo más bonito de tu viaje.                      ¿No nos crees? Compruébalo tu mism@.</p>
@@ -362,10 +362,10 @@ class __TwigTemplate_6085e194fa90b79db3f0a8ba1636b7aecc66ade1c855c69505838c2d0dd
 <br><br>
 
 <main class=\"main\">
-    <div class=\"container\">
+    <div class=\"container \">
         <h2 class=\"main-title\">Nuestras últimas autocaravanas y furgonetas campers para alquilar en España</h2><br>
         {% for camper in campers %}
-        <section class=\"container-products\">
+        <section class=\"container-products col-xs-12\">
             <a href=\"/readCamper/{{camper.id}}\">
                 <div class=\"product\">
                     <img data-v-5098fbb7 src=\"img/{{camper.image}}\" alt=\"Foto caravana\" class=\"product__img\" title=\"Futgonetas Camper\">
@@ -490,6 +490,6 @@ class __TwigTemplate_6085e194fa90b79db3f0a8ba1636b7aecc66ade1c855c69505838c2d0dd
     </a>
 
 {% endblock %}
-", "main/index.html.twig", "C:\\Users\\laura\\campers\\templates\\main\\index.html.twig");
+", "main/index.html.twig", "C:\\xampp\\htdocs\\cp1\\templates\\main\\index.html.twig");
     }
 }

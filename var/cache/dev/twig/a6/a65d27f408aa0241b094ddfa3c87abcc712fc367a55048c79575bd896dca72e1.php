@@ -163,6 +163,6 @@ class __TwigTemplate_19a9846519bedec526317563c76aed4b7503e2e1a69312b2139e0195f78
 
     {{ include('user/_delete_form.html.twig') }}
 {% endblock %}
-", "user/edit.html.twig", "C:\\Users\\laura\\campers\\templates\\user\\edit.html.twig");
+", "user/edit.html.twig", "C:\\xampp\\htdocs\\cp1\\templates\\user\\edit.html.twig");
     }
 }

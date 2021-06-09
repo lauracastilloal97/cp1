@@ -21,3 +21,21 @@
 .dia{
     margin-left: 150px;
 }
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  .ruta{
+      margin-left: 6rem;
+  }
+    .dia{
+        margin-left: 6rem;
+    }
+
+  body{
+      width: 100%;
+  }
+    .box{
+        margin-left: 20px;
+    }
+
+}

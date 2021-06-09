@@ -140,9 +140,9 @@ class __TwigTemplate_d6989e7a0f668d4e01b43022f35696948e04978224da60d380ce068a49f
             <div>
                 <div class=\"home-freeforu pt-5 top-vh\">
                     <div class=\"container d-block d-sm-block d-sm-block d-md-block d-lg-flex d-xl-flex pl-md-0 pr-md-0\">
-                        <div class=\"col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6\">
+                        <div class=\"col-12 col-md-12 col-lg-6 col-xl-6 image\">
                             <div class=\"image-container\">
-                                <img data-v-5098fbb7 src=\"/img/foto1.jpg\" alt=\"Caravana en atardecer\" title=\"Viaja como quieras con Travel Campers\" style=\"width: 530px; height: 350px; border-radius: 10px; border: 5px solid #E8DAEF; \">
+                                <img data-v-5098fbb7 src=\"/img/foto1.jpg\" class=\"imagen1\" alt=\"Caravana en atardecer\" title=\"Viaja como quieras con Travel Campers\">
                             </div>
                         </div>
                         <div class=\"col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 position-relative\">
@@ -281,9 +281,9 @@ class __TwigTemplate_d6989e7a0f668d4e01b43022f35696948e04978224da60d380ce068a49f
             <div>
                 <div class=\"home-freeforu pt-5 top-vh\">
                     <div class=\"container d-block d-sm-block d-sm-block d-md-block d-lg-flex d-xl-flex pl-md-0 pr-md-0\">
-                        <div class=\"col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6\">
+                        <div class=\"col-12 col-md-12 col-lg-6 col-xl-6 image\">
                             <div class=\"image-container\">
-                                <img data-v-5098fbb7 src=\"/img/foto1.jpg\" alt=\"Caravana en atardecer\" title=\"Viaja como quieras con Travel Campers\" style=\"width: 530px; height: 350px; border-radius: 10px; border: 5px solid #E8DAEF; \">
+                                <img data-v-5098fbb7 src=\"/img/foto1.jpg\" class=\"imagen1\" alt=\"Caravana en atardecer\" title=\"Viaja como quieras con Travel Campers\">
                             </div>
                         </div>
                         <div class=\"col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 position-relative\">
@@ -344,6 +344,6 @@ class __TwigTemplate_d6989e7a0f668d4e01b43022f35696948e04978224da60d380ce068a49f
 
 
         {% endblock %}
-", "main/listCamper.html.twig", "C:\\Users\\laura\\campers\\templates\\main\\listCamper.html.twig");
+", "main/listCamper.html.twig", "C:\\xampp\\htdocs\\cp1\\templates\\main\\listCamper.html.twig");
     }
 }

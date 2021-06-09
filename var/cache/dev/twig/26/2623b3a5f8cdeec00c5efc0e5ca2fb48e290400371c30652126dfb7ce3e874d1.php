@@ -512,6 +512,6 @@ class __TwigTemplate_e5e1e22118e5eb54aeac9b8cfe3a8ab45d7f87eeb2c444ff68c2c2c2919
     </div>
 </div>
 {% endblock %}
-", "main/readCamper.html.twig", "C:\\Users\\laura\\campers\\templates\\main\\readCamper.html.twig");
+", "main/readCamper.html.twig", "C:\\xampp\\htdocs\\cp1\\templates\\main\\readCamper.html.twig");
     }
 }
