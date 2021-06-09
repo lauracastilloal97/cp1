@@ -72,7 +72,7 @@ class __TwigTemplate_1e7e6ad7c4d6b3ea5bf127ae2d8504b89bccce43649457892112c95fa03
     <nav class=\"navbar navbar-expand-lg fixed-top second-navbar  \">
         <div class=\"container\">
             <a class=\"navbar-brand\" href=\"../../\">
-                <img src=\"/img/Logotipo.png\" width=\"90\" height=\"60\" alt=\"\">
+                <img src=\"../../img/Logotipo.png\" width=\"90\" height=\"60\" alt=\"\">
             </a>
         </div>
         <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
@@ -182,10 +182,7 @@ class __TwigTemplate_1e7e6ad7c4d6b3ea5bf127ae2d8504b89bccce43649457892112c95fa03
         $this->displayBlock('body', $context, $blocks);
         // line 155
         echo "
-    <nav class=\"navbar sticky-buttom\" style=\"position:absolute;
-  bottom:0;
-  width:100%;
-  height:100px;\">
+    <nav class=\"navbar sticky-buttom\">
 
         <div class=\"col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 text-center d-flex align-items-center justify-content-center flex-column\">
             <div class=\"col-lg-12\">
@@ -372,7 +369,7 @@ class __TwigTemplate_1e7e6ad7c4d6b3ea5bf127ae2d8504b89bccce43649457892112c95fa03
 
     public function getDebugInfo()
     {
-        return array (  346 => 154,  318 => 43,  316 => 42,  306 => 41,  268 => 11,  266 => 10,  256 => 9,  237 => 6,  184 => 155,  182 => 154,  156 => 130,  148 => 124,  138 => 116,  136 => 115,  127 => 108,  122 => 106,  117 => 105,  115 => 104,  106 => 97,  93 => 86,  91 => 85,  66 => 62,  64 => 41,  61 => 40,  58 => 9,  54 => 6,  47 => 1,);
+        return array (  343 => 154,  315 => 43,  313 => 42,  303 => 41,  265 => 11,  263 => 10,  253 => 9,  234 => 6,  184 => 155,  182 => 154,  156 => 130,  148 => 124,  138 => 116,  136 => 115,  127 => 108,  122 => 106,  117 => 105,  115 => 104,  106 => 97,  93 => 86,  91 => 85,  66 => 62,  64 => 41,  61 => 40,  58 => 9,  54 => 6,  47 => 1,);
     }
 
     public function getSourceContext()
@@ -447,7 +444,7 @@ class __TwigTemplate_1e7e6ad7c4d6b3ea5bf127ae2d8504b89bccce43649457892112c95fa03
     <nav class=\"navbar navbar-expand-lg fixed-top second-navbar  \">
         <div class=\"container\">
             <a class=\"navbar-brand\" href=\"../../\">
-                <img src=\"/img/Logotipo.png\" width=\"90\" height=\"60\" alt=\"\">
+                <img src=\"../../img/Logotipo.png\" width=\"90\" height=\"60\" alt=\"\">
             </a>
         </div>
         <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
@@ -532,10 +529,7 @@ class __TwigTemplate_1e7e6ad7c4d6b3ea5bf127ae2d8504b89bccce43649457892112c95fa03
 
     {% block body %}{% endblock %}
 
-    <nav class=\"navbar sticky-buttom\" style=\"position:absolute;
-  bottom:0;
-  width:100%;
-  height:100px;\">
+    <nav class=\"navbar sticky-buttom\">
 
         <div class=\"col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 text-center d-flex align-items-center justify-content-center flex-column\">
             <div class=\"col-lg-12\">
