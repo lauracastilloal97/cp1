@@ -304,6 +304,14 @@ class __TwigTemplate_6085e194fa90b79db3f0a8ba1636b7aecc66ade1c855c69505838c2d0dd
                 </svg>
             </div>
     </a>
+<div class=\"aviso-cookies\" id=\"aviso-cookies\">
+    <h3 class=\"titulo\">Cookies</h3>
+    <p class=\"parrafo\">Utilizamos cookies propias y de terceros para mejorar nuestros servicios.</p>
+    <button class=\"boton\" id=\"btn-aceptar-cookies\">De acuerdo</button>
+    <a href=\"https://www.modelosycontratos.com/2016/04/aviso-cookies-pagina-web/\" class=\"enlace\">Aviso de Cookies</a>
+</div>
+<div class=\"fondo-aviso-cookies\" id=\"fondo-aviso-cookies\"> </div>
+<script src=\"../js/aviso-cookies.js\"></script>
 
 ";
         
@@ -488,6 +496,14 @@ class __TwigTemplate_6085e194fa90b79db3f0a8ba1636b7aecc66ade1c855c69505838c2d0dd
                 </svg>
             </div>
     </a>
+<div class=\"aviso-cookies\" id=\"aviso-cookies\">
+    <h3 class=\"titulo\">Cookies</h3>
+    <p class=\"parrafo\">Utilizamos cookies propias y de terceros para mejorar nuestros servicios.</p>
+    <button class=\"boton\" id=\"btn-aceptar-cookies\">De acuerdo</button>
+    <a href=\"https://www.modelosycontratos.com/2016/04/aviso-cookies-pagina-web/\" class=\"enlace\">Aviso de Cookies</a>
+</div>
+<div class=\"fondo-aviso-cookies\" id=\"fondo-aviso-cookies\"> </div>
+<script src=\"../js/aviso-cookies.js\"></script>
 
 {% endblock %}
 ", "main/index.html.twig", "C:\\xampp\\htdocs\\cp1\\templates\\main\\index.html.twig");

@@ -238,7 +238,11 @@ a{
     }
     
     .content-txt{
-        margin-top: 20px;
+        margin-top: 40px;
+    }
+
+    .foto{
+        margin-top: 25px;
     }
 
   body{

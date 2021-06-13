@@ -72,7 +72,7 @@ class __TwigTemplate_1e7e6ad7c4d6b3ea5bf127ae2d8504b89bccce43649457892112c95fa03
     <nav class=\"navbar navbar-expand-lg fixed-top second-navbar  \">
         <div class=\"container\">
             <a class=\"navbar-brand\" href=\"../../\">
-                <img src=\"../../img/Logotipo.png\" width=\"90\" height=\"60\" alt=\"\">
+                <img src=\"../../img/logotipo.png\" width=\"90\" height=\"60\" alt=\"\">
             </a>
         </div>
         <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
@@ -201,6 +201,12 @@ class __TwigTemplate_1e7e6ad7c4d6b3ea5bf127ae2d8504b89bccce43649457892112c95fa03
             </div>
         </div>
         <div class=\"col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 text-center d-flex align-items-center justify-content-center\">
+            <a class=\"navbar-brand\" href=\"https://indiecampers.es/privacidad\" target=\"_blank\">
+                <p>Privacidad</p>
+            </a>
+            <a class=\"navbar-brand\" href=\"https://indiecampers.es/terminos-y-condiciones\" target=\"_blank\">
+                <p>Términos y Condiciones</p>
+            </a>
             <a class=\"navbar-brand\" href=\"https://www.facebook.com/TheFeatherVanExperience/\" target=\"_blank\">
                 <img src=\"../../img/facebook.png\" width=\"10\" alt=\"Logo de facebook\">
             </a>
@@ -369,7 +375,7 @@ class __TwigTemplate_1e7e6ad7c4d6b3ea5bf127ae2d8504b89bccce43649457892112c95fa03
 
     public function getDebugInfo()
     {
-        return array (  343 => 154,  315 => 43,  313 => 42,  303 => 41,  265 => 11,  263 => 10,  253 => 9,  234 => 6,  184 => 155,  182 => 154,  156 => 130,  148 => 124,  138 => 116,  136 => 115,  127 => 108,  122 => 106,  117 => 105,  115 => 104,  106 => 97,  93 => 86,  91 => 85,  66 => 62,  64 => 41,  61 => 40,  58 => 9,  54 => 6,  47 => 1,);
+        return array (  349 => 154,  321 => 43,  319 => 42,  309 => 41,  271 => 11,  269 => 10,  259 => 9,  240 => 6,  184 => 155,  182 => 154,  156 => 130,  148 => 124,  138 => 116,  136 => 115,  127 => 108,  122 => 106,  117 => 105,  115 => 104,  106 => 97,  93 => 86,  91 => 85,  66 => 62,  64 => 41,  61 => 40,  58 => 9,  54 => 6,  47 => 1,);
     }
 
     public function getSourceContext()
@@ -444,7 +450,7 @@ class __TwigTemplate_1e7e6ad7c4d6b3ea5bf127ae2d8504b89bccce43649457892112c95fa03
     <nav class=\"navbar navbar-expand-lg fixed-top second-navbar  \">
         <div class=\"container\">
             <a class=\"navbar-brand\" href=\"../../\">
-                <img src=\"../../img/Logotipo.png\" width=\"90\" height=\"60\" alt=\"\">
+                <img src=\"../../img/logotipo.png\" width=\"90\" height=\"60\" alt=\"\">
             </a>
         </div>
         <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
@@ -548,6 +554,12 @@ class __TwigTemplate_1e7e6ad7c4d6b3ea5bf127ae2d8504b89bccce43649457892112c95fa03
             </div>
         </div>
         <div class=\"col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 text-center d-flex align-items-center justify-content-center\">
+            <a class=\"navbar-brand\" href=\"https://indiecampers.es/privacidad\" target=\"_blank\">
+                <p>Privacidad</p>
+            </a>
+            <a class=\"navbar-brand\" href=\"https://indiecampers.es/terminos-y-condiciones\" target=\"_blank\">
+                <p>Términos y Condiciones</p>
+            </a>
             <a class=\"navbar-brand\" href=\"https://www.facebook.com/TheFeatherVanExperience/\" target=\"_blank\">
                 <img src=\"../../img/facebook.png\" width=\"10\" alt=\"Logo de facebook\">
             </a>
